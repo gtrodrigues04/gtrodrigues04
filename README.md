@@ -21,3 +21,6 @@
 ### Tecnologias utilizadas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gtrodrigues04&layout=donut)](https://github.com/gtrodrigues04/github-readme-stats)
+
+
+![Snake animation](https://github.com/gtrodrigues04/gtrodrigues04/blob/output/github-contribution-grid-snake.svg)
