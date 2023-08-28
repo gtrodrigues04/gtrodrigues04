@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-teixeira-091a691a8/)
 
-![Teixeira GitHub stats](https://github-readme-stats.vercel.app/api?username=gtrodrigues04&show_icons=true&theme=dracula)
+![Teixeira GitHub stats](https://github-readme-stats.vercel.app/api?username=gtrodrigues04&show_icons=true&theme=gruvbox)
 
 ## Tecnologias conhecidas
 
@@ -20,7 +20,6 @@
 
 ### Tecnologias utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gtrodrigues04&layout=donut)](https://github.com/gtrodrigues04/github-readme-stats)
-
-
-![Snake animation](https://github.com/gtrodrigues04/gtrodrigues04/blob/output/github-contribution-grid-snake.svg)
+<div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtrodrigues04&layout=compact&langs_count=16&theme=great-gatsby" />
+</div>
